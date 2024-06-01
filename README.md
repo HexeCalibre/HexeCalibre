@@ -16,13 +16,19 @@ As an **adaptable and highly motivated individual** passionate about penetration
 - **C# .NET MAUI** for cross-platform app development.
 - **React JS** to create dynamic and responsive web applications.
 
-### 🏆 Udemy Certificates
-- **Python for Data Science and Machine Learning Bootcamp**
-  - Certificate: [View](https://www.udemy.com/certificate/UC-1234567890abcdef/)
-- **The Complete Web Developer Bootcamp**
-  - Certificate: [View](https://www.udemy.com/certificate/UC-1234567890abcdef/)
-- **Ethical Hacking from Scratch to Advanced Techniques**
-  - Certificate: [View](https://www.udemy.com/certificate/UC-1234567890abcdef/)
+### 🏆 Certificates
+- **KodeGo 16-weeks of Full-Stack Web-Development Bootcamp**
+  - Certificate: [View](/img/Web%20Development/Full-Stack/kodego-coc-ritz-feliciano.jpg)
+- **JavaScript, Bootstrap, & PHP Certification for Beginners**
+  - Certificate: [View](/img/Web%20Development/Full-Stack/js-bootstrap-php-udemy-ritz-feliciano.jpg)
+- **Angular**
+  - Certificate: [View](/img/Web%20Development/Front-End/angular-ritz-feliciano.jpg)
+- **React + Redux**
+  - Certificate: [View](/img/Web%20Development/Front-End/react-redux-ritz-feliciano.jpg)
+- **Philippine Institute of Cyber Security Professionals(PICSPro) Official Membership Certificate**
+  - Certificate: [View](/img/Cybersecurity/FELICIANO,%20RITZ%20CARL%20S.%20PICSPro%20Membership%20Certificate.jpg)
+- **Certified Information Systems Auditor (CISA) 101**
+  - Certificate: [View](/img/Cybersecurity/cisa-course.jpg)
 
 ### 📫 How to reach me:
 - Email: [rc.feliciano013097@gmail.com](mailto:rc.feliciano013097@gmail.com)
